@@ -1,2 +1,2 @@
 # exercicios-python
- Listas de exercícios e desafios resolvidos em Pyhton.
+ Listas de exercícios/desafios referentes ao curso de Pyhton.
